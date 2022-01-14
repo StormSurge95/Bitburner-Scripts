@@ -1,5 +1,5 @@
 # Bitburner-Scripts
-Just a simple repository of scripts for use within the open-source game Bitburner
+Just a simple repository of scripts for use within the open-source game Bitburner<br/>
 https://store.steampowered.com/app/1812820/Bitburner/
 
 # Liability
