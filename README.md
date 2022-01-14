@@ -1,5 +1,6 @@
 # Bitburner-Scripts
 Just a simple repository of scripts for use within the open-source game Bitburner
+https://store.steampowered.com/app/1812820/Bitburner/
 
 # Liability
 There is absolutely NO guarantee that these scripts will do what they are meant to do. My only guarantee is that that they work for ME the way I intend for them to (outside of the few that may or may not need some slight improvements). lol
